@@ -1,0 +1,44 @@
+Welcome to the Melmoth's Laboratory!
+
+  An Analysis from the ZooKeeper.
+  
+Sample_
+
+Summary of the analysis: 
+  Key takeaways:
+Identification: 
+  The type of the file:
+  its name:
+  size:
+  hashes:
+    md5:
+    sha256:
+  malware names (if known):
+  current anti-virus detection capabilities:
+Characteristics: 
+  The specimen's capabilities:
+    for infecting files:
+    self-preservation:
+    spreading:
+    leaking data: 
+    interacting with the attacker: 
+Dependencies: 
+  Files and network resources related to the specimen's functionality:
+    OS versions:
+    required initialization files: 
+    custom DLLs:
+    executables: 
+    URLs:
+    scripts:
+Behavioral and code analysis findings:
+  Static:
+  Dynamic:
+Supporting figures:
+  Logs:
+  screenshots:
+  string excerpts:
+  function listings:
+  etc:
+Incident recommendations: 
+  IOCs:
+  Eradication:
